@@ -18,6 +18,7 @@
   --btn-default-hover-color: #222;
   --btn-default-hover-border-color: #222;
 }
+
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
